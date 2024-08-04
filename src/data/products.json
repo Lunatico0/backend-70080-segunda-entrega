@@ -1,0 +1,390 @@
+[
+  {
+    "code": "03PFCHBS1413201",
+    "title": "Piso de Madera Maciza Bamboo Strand Woven Carbonizado 14mm",
+    "description": "14mm x 137mm x 1850m",
+    "thumbnails": "/img/assets/madera-macizo/Bamboo-Strand-Woven-Carbonizado-14mm.jpg",
+    "imagenesSecundarias": {
+      "imagen1": "/img/assets/madera-macizo/Bamboo-Strand-Woven-Carbonizado-14mm(1).jpg",
+      "imagen2": "/img/assets/madera-macizo/Bamboo-Strand-Woven-Carbonizado-14mm(2).jpg",
+      "imagen3": "/img/assets/madera-macizo/Bamboo-Strand-Woven-Carbonizado-14mm(3).jpg"
+    },
+    "price": 65.49,
+    "category": {
+      "categoriaId": "piso",
+      "categoriaNombre": "Pisos",
+      "subcategoria": {
+        "subcategoriaId": "madera-maciza",
+        "subcategoriaNombre": "Madera Maciza"
+      }
+    }
+  },
+  {
+    "code": "03PFCHBS1413211",
+    "title": "Piso de Madera Maciza Bamboo Strand Woven Natural 14mm",
+    "description": "14mm x 137mm x 1850m",
+    "thumbnails": "/img/assets/madera-macizo/Bamboo-Strand-Woven-Natural-14mm.jpg",
+    "imagenesSecundarias": {
+      "imagen1": "/img/assets/madera-macizo/Bamboo-Strand-Woven-Natural-14mm(1).jpg",
+      "imagen2": "/img/assets/madera-macizo/Bamboo-Strand-Woven-Natural-14mm(2).jpg",
+      "imagen3": "/img/assets/madera-macizo/Bamboo-Strand-Woven-Natural-14mm(3).jpg"
+    },
+    "price": 65.49,
+    "category": {
+      "categoriaId": "piso",
+      "categoriaNombre": "Pisos",
+      "subcategoria": {
+        "subcategoriaId": "madera-maciza",
+        "subcategoriaNombre": "Madera Maciza"
+      }
+    }
+  },
+  {
+    "code": "03TGGRRA05119LV",
+    "title": "Piso de Madera Maciza Entablonado Roble Americano Seleccionado 19mm",
+    "description": "19mm x 5\" x largos v",
+    "thumbnails": "/img/assets/madera-macizo/Entablonado-Roble-Americano-Seleccionado-19.jpg",
+    "imagenesSecundarias": {
+      "imagen1": "/img/assets/madera-macizo/Entablonado-Roble-Americano-Seleccionado-19(1).jpg",
+      "imagen2": "/img/assets/madera-macizo/Entablonado-Roble-Americano-Seleccionado-19(2).jpg",
+      "imagen3": "/img/assets/madera-macizo/Entablonado-Roble-Americano-Seleccionado-19(3).jpg"
+    },
+    "price": 145.53,
+    "category": {
+      "categoriaId": "piso",
+      "categoriaNombre": "Pisos",
+      "subcategoria": {
+        "subcategoriaId": "madera-maciza",
+        "subcategoriaNombre": "Madera Maciza"
+      }
+    }
+  },
+  {
+    "code": "03UFINLO0410001",
+    "title": "Piso de Madera Maciza Lapacho 15mm",
+    "description": "15mm x 90mm x largos",
+    "thumbnails": "/img/assets/madera-macizo/Lapacho-15.jpg",
+    "imagenesSecundarias": {
+      "imagen1": "/img/assets/madera-macizo/Lapacho-15(1).jpg",
+      "imagen2": "/img/assets/madera-macizo/Lapacho-15(2).jpg",
+      "imagen3": "/img/assets/madera-macizo/Lapacho-15(3).jpg"
+    },
+    "price": 59.54,
+    "category": {
+      "categoriaId": "piso",
+      "categoriaNombre": "Pisos",
+      "subcategoria": {
+        "subcategoriaId": "madera-maciza",
+        "subcategoriaNombre": "Madera Maciza"
+      }
+    }
+  },
+  {
+    "code": "03UFINVI0410001",
+    "title": "Piso de Madera Maciza Viraro 15mm",
+    "description": "15mm x 90mm x largos",
+    "thumbnails": "/img/assets/madera-macizo/Viraro-15.jpg",
+    "imagenesSecundarias": {
+      "imagen1": "/img/assets/madera-macizo/Viraro-15(1).jpg",
+      "imagen2": "/img/assets/madera-macizo/Viraro-15(2).jpg",
+      "imagen3": "/img/assets/madera-macizo/Viraro-15(3).jpg"
+    },
+    "price": 59.54,
+    "category": {
+      "categoriaId": "piso",
+      "categoriaNombre": "Pisos",
+      "subcategoria": {
+        "subcategoriaId": "madera-maciza",
+        "subcategoriaNombre": "Madera Maciza"
+      }
+    }
+  },
+  {
+    "code": "06BAAV300211000",
+    "title": "Deck Baldosa Co-Extruded Antique",
+    "description": "300 x 300 x 21mm",
+    "thumbnails": "/img/assets/deck/Deck-Baldosa-Antique.jpg",
+    "imagenesSecundarias": {
+      "imagen1": "/img/assets/deck/Deck-Baldosa-Antique(1).jpg",
+      "imagen2": "/img/assets/deck/Deck-Baldosa-Antique(2).jpg",
+      "imagen3": "/img/assets/deck/Deck-Baldosa-Antique(3).jpg"
+    },
+    "price": 5.29,
+    "category": {
+      "categoriaId": "deck",
+      "categoriaNombre": "Deck",
+      "subcategoria": {
+        "subcategoriaId": "",
+        "subcategoriaNombre": ""
+      }
+    }
+  },
+  {
+    "code": "06DEBAFC2512200",
+    "title": "Deck Composite Bamboo",
+    "description": "25 x 146 x 2200mm",
+    "thumbnails": "/img/assets/deck/Deck-Composite-Bamboo.jpg",
+    "imagenesSecundarias": {
+      "imagen1": "/img/assets/deck/Deck-Composite-Bamboo(1).jpg",
+      "imagen2": "/img/assets/deck/Deck-Composite-Bamboo(2).jpg",
+      "imagen3": "/img/assets/deck/Deck-Composite-Bamboo(3).jpg",
+      "imagen4": "/img/assets/deck/Deck-Composite-Bamboo(4).jpg"
+    },
+    "price": 43.92,
+    "category": {
+      "categoriaId": "deck",
+      "categoriaNombre": "Deck",
+      "subcategoria": {
+        "subcategoriaId": "",
+        "subcategoriaNombre": ""
+      }
+    }
+  },
+  {
+    "code": "06DEHLG06105700",
+    "title": "Junta Deck Co-Extruded Silver Grey",
+    "description": "10,5 x 70 x 2200mm",
+    "thumbnails": "/img/assets/deck/Junta-Deck-Silver.jpg",
+    "price": 8.65,
+    "category": {
+      "categoriaId": "deck",
+      "categoriaNombre": "Deck",
+      "subcategoria": {
+        "subcategoriaId": "",
+        "subcategoriaNombre": ""
+      }
+    }
+  },
+  {
+    "code": "06DEHO0CA222200",
+    "title": "Deck Co-Extruded Caoba Doble Faz",
+    "description": "22 x 142 x 2200mm",
+    "thumbnails": "/img/assets/deck/Deck-Caoba-Doble.jpg",
+    "imagenesSecundarias": {
+      "imagen1": "/img/assets/deck/Deck-Caoba-Doble(1).jpg",
+      "imagen2": "/img/assets/deck/Deck-Caoba-Doble(2).jpg",
+      "imagen3": "/img/assets/deck/Deck-Caoba-Doble(3).jpg"
+    },
+    "price": 49.30,
+    "category": {
+      "categoriaId": "deck",
+      "categoriaNombre": "Deck",
+      "subcategoria": {
+        "subcategoriaId": "",
+        "subcategoriaNombre": ""
+      }
+    }
+  },
+  {
+    "code": "06RPHL00191450T",
+    "title": "Revestimiento de Pared Exterior Siding Co-Extruded Caoba",
+    "description": "19 x 145 x 2900mm",
+    "thumbnails": "/img/assets/revestimiento-exterior/Pared-Exterior-Siding-Caoba.jpg",
+    "imagenesSecundarias": {
+      "imagen1": "/img/assets/revestimiento-exterior/Pared-Exterior-Siding-Caoba(1).jpg",
+      "imagen2": "/img/assets/revestimiento-exterior/Pared-Exterior-Siding-Caoba(2).jpg",
+      "imagen3": "/img/assets/revestimiento-exterior/Pared-Exterior-Siding-Caoba(3).jpg"
+    },
+    "price": 31.65,
+    "category": {
+      "categoriaId": "revestimiento",
+      "categoriaNombre": "Revestimientos",
+      "subcategoria": {
+        "subcategoriaId": "revestimiento-exterior",
+        "subcategoriaNombre": "Revestimiento Exterior"
+      }
+    }
+  },
+  {
+    "code": "06VIAV006230000",
+    "title": "Viga Co-Extruded Silver Grey 62mm x 120mm",
+    "description": "62 x 120 x 2900mm",
+    "thumbnails": "/img/assets/revestimiento-exterior/Viga-Co-Extruded-Silver-Grey-62x120.jpg",
+    "imagenesSecundarias": {
+      "imagen1": "/img/assets/revestimiento-exterior/Viga-Co-Extruded-Silver-Grey-62x120(1).jpg",
+      "imagen2": "/img/assets/revestimiento-exterior/Viga-Co-Extruded-Silver-Grey-62x120(2).jpg",
+      "imagen3": "/img/assets/revestimiento-exterior/Viga-Co-Extruded-Silver-Grey-62x120(3).jpg"
+    },
+    "price": 41.10,
+    "category": {
+      "categoriaId": "revestimiento",
+      "categoriaNombre": "Revestimientos",
+      "subcategoria": {
+        "subcategoriaId": "revestimiento-exterior",
+        "subcategoriaNombre": "Revestimiento Exterior"
+      }
+    }
+  },
+  {
+    "code": "06VIHL004590010",
+    "title": "Viga Co-Extruded Caoba 50mm x 50mm",
+    "description": "50 x 50 x 2900mm",
+    "thumbnails": "/img/assets/revestimiento-exterior/Viga-Caoba-50x50.jpg",
+    "imagenesSecundarias": {
+      "imagen1": "/img/assets/revestimiento-exterior/Viga-Caoba-50x50(1).jpg",
+      "imagen2": "/img/assets/revestimiento-exterior/Viga-Caoba-50x50(2).jpg",
+      "imagen3": "/img/assets/revestimiento-exterior/Viga-Caoba-50x50(3).jpg"
+    },
+    "price": 16.19,
+    "category": {
+      "categoriaId": "revestimiento",
+      "categoriaNombre": "Revestimientos",
+      "subcategoria": {
+        "subcategoriaId": "revestimiento-exterior",
+        "subcategoriaNombre": "Revestimiento Exterior"
+      }
+    }
+  },
+  {
+    "code": "08HAESP2000K403",
+    "title": "Espejo Led K403 600mm x 600mm",
+    "description": "600 x 600",
+    "thumbnails": "/img/assets/espejo-led/Espejo-Led-K403-600x600.jpg",
+    "imagenesSecundarias": {
+      "imagen1": "/img/assets/espejo-led/Espejo-Led-K403-600x600(1).jpg",
+      "imagen2": "/img/assets/espejo-led/Espejo-Led-K403-600x600(2).jpg"
+    },
+    "price": 59.54,
+    "category": {
+      "categoriaId": "articulos-baño",
+      "categoriaNombre": "Articulos de Baño",
+      "subcategoria": {
+        "subcategoriaId": "espejo-led",
+        "subcategoriaNombre": "Espejos Led"
+      }
+    }
+  },
+  {
+    "code": "08HAESP3000K702",
+    "title": "Espejo Led K702 800mm x 600mm",
+    "description": "800 x 600",
+    "thumbnails": "/img/assets/espejo-led/Espejo-Led-K702-800x600.jpg",
+    "imagenesSecundarias": {
+      "imagen1": "/img/assets/espejo-led/Espejo-Led-K702-800x600(1).jpg",
+      "imagen2": "/img/assets/espejo-led/Espejo-Led-K702-800x600(2).jpg"
+    },
+    "price": 59.54,
+    "category": {
+      "categoriaId": "articulos-baño",
+      "categoriaNombre": "Articulos de Baño",
+      "subcategoria": {
+        "subcategoriaId": "espejo-led",
+        "subcategoriaNombre": "Espejos Led"
+      }
+    }
+  },
+  {
+    "code": "08HAESP5000K306",
+    "title": "Espejo Led con Reloj K306 800mm x 600mm",
+    "description": "",
+    "thumbnails": "/img/assets/espejo-led/Espejo-Led-con-Reloj-K306-800x600.jpg",
+    "imagenesSecundarias": {
+      "imagen1": "/img/assets/espejo-led/Espejo-Led-con-Reloj-K306-800x600(1).jpg",
+      "imagen2": "/img/assets/espejo-led/Espejo-Led-con-Reloj-K306-800x600(2).jpg",
+      "imagen3": "/img/assets/espejo-led/Espejo-Led-con-Reloj-K306-800x600(3).jpg"
+    },
+    "price": 71.54,
+    "category": {
+      "categoriaId": "articulos-baño",
+      "categoriaNombre": "Articulos de Baño",
+      "subcategoria": {
+        "subcategoriaId": "espejo-led",
+        "subcategoriaNombre": "Espejos Led"
+      }
+    }
+  },
+  {
+    "code": "10IN0JC1047361T",
+    "title": "Revestimiento de Pared Interior Gris",
+    "description": "20,5 x 120 x 2850 mm",
+    "thumbnails": "/img/assets/revestimiento-interior/Pared-Interior-Gris.jpg",
+    "imagenesSecundarias": {
+      "imagen1": "/img/assets/revestimiento-interior/Pared-Interior-Gris(1).jpg",
+      "imagen2": "/img/assets/revestimiento-interior/Pared-Interior-Gris(2).jpg",
+      "imagen3": "/img/assets/revestimiento-interior/Pared-Interior-Gris(3).jpg"
+    },
+    "price": 39.84,
+    "category": {
+      "categoriaId": "revestimiento",
+      "categoriaNombre": "Revestimientos",
+      "subcategoria": {
+        "subcategoriaId": "revestimiento-interior",
+        "subcategoriaNombre": "Revestimiento Interior"
+      }
+    }
+  },
+  {
+    "code": "10INBO00A00JF28",
+    "title": "Placas UV Marquina",
+    "description": "3 x 1220 x 2440mm",
+    "thumbnails": "/img/assets/revestimiento-interior/Placas-UV-Marquina.jpg",
+    "imagenesSecundarias": {
+      "imagen1": "/img/assets/revestimiento-interior/Placas-UV-Marquina(1).jpg",
+      "imagen2": "/img/assets/revestimiento-interior/Placas-UV-Marquina(2).jpg"
+    },
+    "price": 36.00,
+    "category": {
+      "categoriaId": "revestimiento",
+      "categoriaNombre": "Revestimientos",
+      "subcategoria": {
+        "subcategoriaId": "revestimiento-interior",
+        "subcategoriaNombre": "Revestimiento Interior"
+      }
+    }
+  },
+  {
+    "code": "10INBO00U00BLCK",
+    "title": "Perfil de Inicio / Terminación Negro",
+    "description": "14 x 2440mm",
+    "thumbnails": "/img/assets/revestimiento-interior/Perfil-Inicio-Terminacion-Negro_1.jpg",
+    "price": 2.50,
+    "category": {
+      "categoriaId": "revestimiento",
+      "categoriaNombre": "Revestimientos",
+      "subcategoria": {
+        "subcategoriaId": "revestimiento-interior",
+        "subcategoriaNombre": "Revestimiento Interior"
+      }
+    }
+  },
+  {
+    "code": "70PVNWZZ1271026",
+    "title": "Alfombra Zig Zag Verde 4,5 mm en Rollo 18m2",
+    "description": "4,5mm x 1.2m x 15m",
+    "thumbnails": "/img/assets/zigzag/Verde-4,5mm.jpg",
+    "imagenesSecundarias": {
+      "imagen1": "/img/assets/zigzag/Verde-4,5mm(1).jpg",
+      "imagen2": "/img/assets/zigzag/Verde-4,5mm(2).jpg",
+      "imagen3": "/img/assets/zigzag/Verde-4,5mm(3).jpg"
+    },
+    "price": 18.52,
+    "category": {
+      "categoriaId": "piso",
+      "categoriaNombre": "Pisos",
+      "subcategoria": {
+        "subcategoriaId": "rollo-zigzag",
+        "subcategoriaNombre": "Rollo ZigZag"
+      }
+    }
+  },
+  {
+    "code": "70PVNWZZ1271034",
+    "title": "Alfombra Zig Zag Azul 4,5 mm en Rollo 18m2",
+    "description": "4,5mm x 1.2m x 15m",
+    "thumbnails": "/img/assets/zigzag/Azul-4,5mm.jpg",
+    "imagenesSecundarias": {
+      "imagen1": "/img/assets/zigzag/Azul-4,5mm(1).jpg",
+      "imagen2": "/img/assets/zigzag/Azul-4,5mm(2).jpg",
+      "imagen3": "/img/assets/zigzag/Azul-4,5mm(3).jpg"
+    },
+    "price": 18.52,
+    "category": {
+      "categoriaId": "piso",
+      "categoriaNombre": "Pisos",
+      "subcategoria": {
+        "subcategoriaId": "rollo-zigzag",
+        "subcategoriaNombre": "Rollo ZigZag"
+      }
+    }
+  }
+]
