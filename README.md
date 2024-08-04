@@ -32,7 +32,10 @@ Este proyecto forma parte de la primera entrega para el curso de Backend en la a
 - `POST /api/carts/:cid/product/:pid`: Agrega un producto al carrito especificado.
 - `DELETE /api/carts/:cid`: Elimina un carrito por su ID.
 
-## Interfaz visual con frontEnd
+## Frontend
+- `/realtimeproducts`: Ruta para visualizar productos en tiempo real.
+
+### Interfaz visual con frontEnd
 - `ExpressHandlebars`: Motor de plantillas para Express.
 - `Socket.io`: Implementación de WebSockets para la comunicación en tiempo real.
 
